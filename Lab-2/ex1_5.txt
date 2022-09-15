@@ -1,3 +1,2 @@
-Running program Ex1.5...
 Enter two numbers: 
-The sum of 3 and 5 is 8
+The sum of 2 and 7 is 9

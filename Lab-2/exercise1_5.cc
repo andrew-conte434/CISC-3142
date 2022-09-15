@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-	cout << "Running program Ex1.5..." << endl;
 	cout<< "Enter two numbers: "<<endl;
 	int x = 0, y = 0;
 	cin >> x >> y;

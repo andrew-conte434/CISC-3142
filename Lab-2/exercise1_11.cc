@@ -2,7 +2,6 @@
 
 int main()
 {
-	std::cout << "Running program Ex1.11..." << std::endl;
 	std::cout << "Please enter two numbers...";
 	int x = 0, y = 0;
 	std::cin  >> x >> y;
