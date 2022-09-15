@@ -13,9 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    
-    - name: configure
-      run: ./configure
       
     - name: On push
       run: cd Lab-2 && make lab2
