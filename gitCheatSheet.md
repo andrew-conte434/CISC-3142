@@ -10,7 +10,7 @@
 **fetch [alias]** get all branches from remote repository. (usually names 'origin') <br/>
 **pull [alias] [branch]** get specified branch from remote repo and merge with local repo <br/>
 
-##Branching and Merging
+## Branching and Merging
 **checkout [branch name]** switches to branch <br/>
 **checkout -b [branch name]** creates a new branch <br/>
 **merge [branch name]** merge specified branch into current one <br/>
