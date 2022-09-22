@@ -1,0 +1,32 @@
+MARKDOWN CHEATSHEET
+
+Headings
+# = <h1>
+## = <h2>
+### = <h3>
+
+Text Editing
+* = Italics
+** = Bold
+== = Highlighted
+~~ = Strikethrough
+~ = Subscript
+^ = Superscript
+`` = Line of code
+
+Lists
+- Start of unordered list
+1. Start of ordered list
+
+Blocks of text
+> = Blockquote
+``` ``` = Block of code
+
+Table
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
+
+Link
+[title](www.example.com)
