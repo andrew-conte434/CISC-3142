@@ -2,6 +2,7 @@ name: Hello World Action
 on: [push]
 jobs:
         Create-Hello-World:
+                runs-on: ubuntu-latest
                 steps: 
                 - run: echo '#include <iostream> int main(){std::cout<<"Hello World"; return 0;}' > helloWorld.cc
                 - run: g++ helloWorld.cc -o helloWorld
