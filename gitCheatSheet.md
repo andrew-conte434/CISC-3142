@@ -21,6 +21,6 @@
 
 ## Temporary Saving
 **stash** saves all changes <br/>
-**stash pop** brings changes saved in stash onto current branch 
+**stash pop** brings changes saved in stash onto current branch<br/> 
 
 
