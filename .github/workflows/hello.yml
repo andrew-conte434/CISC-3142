@@ -1,9 +1,13 @@
 name: Hello World Action
-on: [push]
+on: 
+        push:
+                branches: [ "main" ]
+        workflow_dispatch:
 jobs:
-        Create-Hello-World:
+        build:
                 runs-on: ubuntu-latest
                 steps:
-                        run: echo "This job was triggered by a ${{ github.event_name }} event."
-                        run: make clean
-                        run: make hello
+                        - uses: actions/checkout@v2
+                        - name: Hello World
+                          run: echo -e '#include <iostream>\n int main(){std::cout<<"Hello World";}' > helloWorldAction.cpp
+                        - run: g++ helloWorldAction.cpp && ./a.out

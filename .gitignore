@@ -1,6 +1,4 @@
 a.out
 *.o
 *.log
-script*.txt
-time*.txt
 ./build/
