@@ -1,0 +1,6 @@
+##Output of given program
+
+Col 50 Row 50
+Col 50 Row 70
+Col 25 Row 50
+
