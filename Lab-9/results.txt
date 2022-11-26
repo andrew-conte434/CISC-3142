@@ -1,0 +1,3 @@
+October weather based on average: 64.7778
+October weather based on moving average: 80.6667
+October weather based on weighted moving average: 79.1667
