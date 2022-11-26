@@ -1,0 +1,27 @@
+Average length of all films: 105 minutes
+Average length by decade: 
+1920s: 101 minutes
+1930s: 93 minutes
+1940s: 93 minutes
+1950s: 101 minutes
+1960s: 118 minutes
+1970s: 112 minutes
+1980s: 104 minutes
+1990s: 102 minutes
+
+Awarded films by genre: 
+Action: 0 
+Adventure: 2 
+Comedy: 62 
+Crime: 0 
+Drama: 226 
+Fantasy: 0 
+Horror: 4 
+Music: 8 
+Mystery: 4 
+Romance: 0 
+Science Fiction: 8 
+Short: 0 
+War: 4 
+Western: 8 
+Westerns: 0 
