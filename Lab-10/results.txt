@@ -1,0 +1,17 @@
+Total length of all films: 167446
+
+Top 10 most popular films: 
+Final Notice 88
+Creature from Black Lake 88
+Ballad of Narayama, The 88
+New Year's Day 88
+Five Corners 88
+Best of Times, The 88
+Dangerous Pursuit 88
+Fellini Satyricon 88
+Happy Birthday to Me 88
+Great Race, The 88
+
+First film to feature Sean Connery: Goldfinger
+
+Comedy and Action movies were not released in the same years.
